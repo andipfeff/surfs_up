@@ -2,7 +2,7 @@
 
 ## Overview
 
-W. Avy, potential investor for the Surf & Shake Shop, has requested a weather analysis to ensure that this is a sound business investment. He is looking for weather trends in Oahu for the months of December and June, so that he can assess if this will be a year round sustainable business. Using SQLite and SQLAlchemy in conjunction with numpy and pandas a Python query was created that looks at historical weather data for multiple years for the months of June and December.
+W. Avy, a potential investor, has requested a weather analysis to ensure that the Surf & Shake Shop business plan is a sound investment and is sustainable year round. He has asked for weather trends in Oahu for the months of December and June. Using SQLite and SQLAlchemy in conjunction with numpy and pandas a Python query was created that looks at historical weather data for multiple years for the months of June and December.
 
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed
