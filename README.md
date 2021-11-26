@@ -10,9 +10,9 @@ W. Avy, a potential investor, has requested a weather analysis to ensure that th
 
 
 
-- Point 1
-- Point 2
-- Point 3
+- The average temperature in both June & December is in the low to mid 70's
+- The temperature range for June is 64-85
+- The temperature range for December is 56-83
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December
