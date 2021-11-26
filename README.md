@@ -1,7 +1,6 @@
 # Surf's Up Analysis
 
 ## Overview
-Explain the purpose of this analysis
 
 W. Avy, potential investor for the Surf & Shake Shop, has requested a weather analysis to ensure that this is a sound business investment. He is looking for weather trends in Oahu for the months of December and June, so that he can assess if this will be a year round sustainable business. Using SQLite and SQLAlchemy in conjunction with numpy and pandas a Python query was created that looks at historical weather data for multiple years for the months of June and December.
 
